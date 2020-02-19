@@ -22,7 +22,6 @@ h2{
     width:100%;
 }
 .top-banner{
-    border: 1px;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
@@ -49,7 +48,7 @@ section{
 .single-experience{
     box-shadow: 10px 10px 40px grey;
     border-radius: 5px;
-    height:60%;
+    height:70%;
     background-color: white;
 }
 .experience-area{
